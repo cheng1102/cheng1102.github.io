@@ -18,7 +18,7 @@ title: 我的实习作品集
 
  ![2](https://seth-1254428880.cos.ap-shanghai.myqcloud.com/2.jpg){:.border}
 
-[微信链接](https://mp.weixin.qq.com/s/GFmbXju3hqIp0sYRUPNq4A)
+[微信链接](https://mp.weixin.qq.com/s/GFmbXju3hqIp0sYRUPNq4A) |
 
 ## 七夕特供 | “单身汪”们看过来，哪里找对象最靠谱？
 (微信推送及H5交互）
@@ -32,14 +32,14 @@ title: 我的实习作品集
 
  ![4](https://seth-1254428880.cos.ap-shanghai.myqcloud.com/4.jpg){:.border}
 
-[客户端链接](https://web.shobserver.com/wx/detail.do?id=57721&time=1498654790671&from=groupmessage&isappinstalled=0)
+[客户端链接](https://web.shobserver.com/wx/detail.do?id=57721&time=1498654790671&from=groupmessage&isappinstalled=0) |
 
 #### 又裁员！《纽约时报》数字化转型怎么走？
 （网页、客户端及微信推送）
 
  ![5](https://seth-1254428880.cos.ap-shanghai.myqcloud.com/5.jpg){:.border}
 
-[网页链接](http://www.shobserver.com/news/detail?id=56199)
+[网页链接](http://www.shobserver.com/news/detail?id=56199) |
 
 
 
