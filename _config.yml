@@ -2,8 +2,8 @@
 permalink:           pretty
 
 # Setup
-title:               Poole
-tagline:             The Jekyll Butler
+title:               Cheng
+tagline:             A Trial Blog
 url:                 http://getpoole.com
 paginate:            1
 baseurl:             ""
@@ -17,14 +17,14 @@ sass:
 
 # About/contact
 author:
-  name:              Mark Otto
-  url:               https://twitter.com/mdo
-  email:             markdotto@gmail.com
+  name:              Michael Cheng
+  url:               
+  email:             chengshijie1102@qq.com
 
 # Custom vars
 version:             2.0.0
 github:
-  repo:              https://github.com/poole/poole
+  repo:              
 
 # Gems
 gems:
