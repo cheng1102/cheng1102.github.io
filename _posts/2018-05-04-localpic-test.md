@@ -1,7 +1,11 @@
 ---
-layout:post
-title:localpic test
+layout: post
+title: localpic test
 ---
+
+# 多尝试几种类型
+
+*比如对Markdown的支持*
 
 ![](localimage/1.jpg)
 插入一张图片来感受一下
