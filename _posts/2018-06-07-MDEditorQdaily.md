@@ -24,3 +24,18 @@ title: 我的制图
 
 |[微信链接](https://mp.weixin.qq.com/s/9fkMAx0KkgmSmRCcanLHTg)|
 
+最后是一个demo，用AE简单制作了动态图表，以Gif形式呈现。
+
+好奇心日报的原图如下（来自6月7日小数据栏目）
+
+![4](https://seth-1254428880.cos.ap-shanghai.myqcloud.com/QDoriginal.jpg){:.border}
+
+这张图以动态形式呈现，也许效果更佳。如下：
+
+![5](https://seth-1254428880.cos.ap-shanghai.myqcloud.com/%E5%90%88%E6%88%90%201_1_2.gif){:.border}
+
+
+
+
+
+
