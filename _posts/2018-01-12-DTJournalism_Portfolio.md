@@ -1,6 +1,6 @@
 ﻿---
 layout: post
-title: 我的实习作品集
+title: 数据新闻作品集（解放日报·上观新闻实习）
 ---
 以下汇总了在解放日报·上观新闻实习期间获署名的数据新闻作品。
 
@@ -45,7 +45,3 @@ title: 我的实习作品集
  ![4](https://seth-1254428880.cos.ap-shanghai.myqcloud.com/4.jpg){:.border}
 
 [客户端链接](https://web.shobserver.com/wx/detail.do?id=57721&time=1498654790671&from=groupmessage&isappinstalled=0) |
-
-
-
-

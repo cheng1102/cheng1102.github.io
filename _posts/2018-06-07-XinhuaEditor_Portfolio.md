@@ -1,8 +1,10 @@
 ﻿---
 layout: post
-title: 我的制图
+title: 制图作品集（新华社上海分社新媒体中心实习）
 ---
-以下微信推送中，我负责了信息图的制作，供参考。
+在新华社实习的主要内容是客户端和公众号矩阵的内容编辑。
+
+在以下推送中，我负责了信息图的制作，供参考。
 
 <!--more-->
 
@@ -24,11 +26,11 @@ title: 我的制图
 
 |[微信链接](https://mp.weixin.qq.com/s/9fkMAx0KkgmSmRCcanLHTg)|
 
-#### DEMO
+#### 附上一个DEMO
 
-另外，我用AE简单制作了动态图表，用Gif呈现。多张动态图拼接起来也可以做成短视频。
+实习期间自学了AE，如下是一个DEMO，通过动态gif的方式呈现数据
 
-好奇心日报的原图如下（来自6月7日小数据栏目）
+原图如下（来自6月7日好奇心日报小数据栏目）
 
 ![4](https://seth-1254428880.cos.ap-shanghai.myqcloud.com/QDoriginal.jpg){:.border}
 
