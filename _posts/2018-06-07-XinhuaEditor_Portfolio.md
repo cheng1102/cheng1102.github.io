@@ -39,3 +39,4 @@ title: 新华社实习 | 编辑制图
 
 ![5](https://seth-1254428880.cos.ap-shanghai.myqcloud.com/%E5%90%88%E6%88%90%201_1_2.gif){:.border}
 
+2018-06-07
