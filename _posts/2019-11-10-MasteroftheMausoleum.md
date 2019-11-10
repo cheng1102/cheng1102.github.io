@@ -2,7 +2,7 @@
 title: 定陵老祖 Master of the Mausoleum
 ---
 
-！[MoM1](https://seth-1254428880.cos.ap-shanghai.myqcloud.com/MoM1.png)
+![MoM1](https://seth-1254428880.cos.ap-shanghai.myqcloud.com/MoM1.png)
 
 十三陵开放参观的景点有三个，神道、定陵、长陵。整个参观路线呈丁字形，从神道走到长陵是一横，然后折回来，竖钩的钩这一部分是参观的高潮，定陵地宫。
 
