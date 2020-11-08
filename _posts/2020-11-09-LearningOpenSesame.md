@@ -1,24 +1,16 @@
 ---
-title: 【新闻解读】芝麻开门 Open Sesame
+title: 【阅读笔记】芝麻开门 Open Sesame
 ---
 
 ![MoM1](https://seth-1254428880.cos.ap-shanghai.myqcloud.com/Open.jpg)
 
-Main title: Open Sesame
-Subtitle: Alternative 5G technology
-Issue: The Economist Nov. 7th 2020
-Section: Leaders
-Word Count: 735
-
-<!--more-->
-
-阅读笔记：
- 
 本篇文章介绍了一种替代华为5G设备的技术方向——OpenRAN，属于科技类文章。
 
 阅读的难点和有趣点，都聚焦在对新技术概念的介绍、Pros & Cons分析，以及政策和投资建议。
 
 文中生僻名词量较少，主要是一些通讯行业的跨国企业名称。亮点词汇和短语很多，值得熟练掌握。
+
+<!--more-->
 
 说起来，OpenRAN技术不是5G行业的新话题，近年来“五眼联盟”国家对华为5G设备的围剿中，这一技术也多次被提起。
 

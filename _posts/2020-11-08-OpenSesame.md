@@ -3,9 +3,13 @@ title: 【新闻阅读】芝麻开门 Open Sesame
 ---
 
 Main title: Open Sesame
+
 Subtitle: Alternative 5G technology
+
 Issue: The Economist Nov. 7th 2020
+
 Section: Leaders
+
 Word Count: 735
 
 <!--more-->
