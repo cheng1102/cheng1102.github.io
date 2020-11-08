@@ -14,13 +14,13 @@ title: 【阅读笔记】芝麻开门 Open Sesame
 
 OpenRAN技术究竟是不是靠谱，华为未来的处境究竟如何？我们在阅读文章过程中寻找答案。
 
-首段由三个句子组成，后两句虽长但不算太难。“One Step at a time.”我们一句句来看。
+首段由三个句子组成，后两句虽长但不算太难。“One step at a time.”我们一句句来看。
 
 第一句：
 
 The signal was easy to miss amid the noise of new lockdowns and America’s elections.
 
-首局的难点出在amid一词。这个是个英文教材上出现较少的副词。它和另一个介词among较为相似，都可译作“在……之中”，不过among通常是指在实物（人、物体）之中，而amid则是在虚指（环境、时间、情绪）之中。
+首句的难点出在amid一词。这个是个英文教材上使用较少的副词。它和另一个介词among较为相似，都可译作“在……之中”，不过among通常是指在实物（人、物体）之中，而amid则是在虚指（环境、时间、情绪）之中。
 
 因此在句子里读到amid一词，脑中或可有这样的场景：仿佛一团雾气中有一样什么东西。具体到本句，这一团迷雾由两个名词组成：lockdowns （封城）和elections（选举）。
 
@@ -36,4 +36,4 @@ The signal was easy to miss amid the noise of new lockdowns and America’s elec
 
 Earlier this week, Vodafone, a mobile operator, announced that in Britain it would use a technology called OpenRAN to replace some gear made by Huawei, a Chinese firm whose products are considered too much of a security risk to be used in the new 5g mobile networks.
 
-第二句虽长，但教会我们一个做人的道理
+第二句虽长，但教会我们一个~~做人的~~道理
